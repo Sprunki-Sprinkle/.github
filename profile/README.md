@@ -37,3 +37,4 @@ Resource:
 [Sprunki Halloween](https://github.com/Sprunki-Halloween-Mod)
 [Sprunki Babies](https://github.com/Sprunki-Babies)
 [Sprunki Mixer](https://github.com/Sprunki-Mixer-Mod)
+[Sprunki Phase 0 mod](https://github.com/Sprunki-Phase-0-Mod)
