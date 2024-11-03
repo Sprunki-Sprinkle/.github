@@ -8,6 +8,7 @@
 ## [Play Sprunki Halloween Now!](https://sprunkiincredibox.app/sprunki-halloween)
 ## [Play Sprunki Babies Now!](https://sprunkiincredibox.app/sprunki-babies)
 ## [Play Sprunki Mixer Now!](https://sprunkiincredibox.app/sprunki-mixer)
+## [Play Sprunki Phase 0 Now!](https://sprunkiincredibox.app/sprunki-phase-0)
 
 ### What is Sprunki Sprinkle?
 Sprunki Sprinkle is a fan-made mod of the Incredibox universe, bringing a delightful, sugary twist to music creation. In this whimsical mod, players enter a world inspired by sprinkles, sweets, and all things candy-coated. With vibrant visuals and bubbly sounds, Sprunki Sprinkle adds a delicious layer of fun that fans of all ages can enjoy!
